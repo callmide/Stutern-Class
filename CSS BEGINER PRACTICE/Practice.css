@@ -1,0 +1,26 @@
+.Water{
+    color: aqua; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Design{
+    color: cadetblue; font-size: xx-large;
+}
+.Books{
+    color: coral;
+}
+.Excercise{
+    color: darkcyan; font-weight: bolder;
+}
+.Food{
+    color: darkmagenta; font-size: xx-small;
+}
+.Weather{
+    color: dimgrey; font-weight: 300;
+}
+.Looks{
+    color: darkseagreen;
+    background-color: brown;
+}
+.Junks{
+    color: indigo;
+    font: bolder;
+}
