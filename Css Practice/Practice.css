@@ -1,15 +1,31 @@
-.red{
+.Red{
     color: red;
 }
-.green{
+.Green{
     color: green;
 }
-.blue{
+.Blue{
     color: blue;
 }
-.yellow{
+.Yellow{
     color: yellow;
 }
-.black{
+.Black{
     color: black;
 }
+.Internal{
+background-color: cadetblue;
+}
+.Yellow{
+direction: inherit;
+background-color: brown;
+}
+.Yellow{
+background-color:revert;
+}
+.Blue{
+background-color: chartreuse;
+}
+.H1{background-color: aqua;}
+.H1{background-color: chocolate;}
+.H1{background-color: cornflowerblue;}
